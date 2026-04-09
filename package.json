@@ -1,0 +1,1 @@
+{\n  \"name\": \"mcav-apk\",\n  \"version\": \"1.0.0\",\n  \"private\": true,\n  \"scripts\": {\n    \"build\": \"tsc -p tsconfig.json\",\n    \"serve\": \"capacitor serve\"\n  },\n  \"dependencies\": {\n    \"@capacitor/core\": \"latest\",\n    \"@capacitor/cli\": \"latest\"\n  },\n  \"devDependencies\": {\n    \"typescript\": \"^4.5.2\"\n  }\n}
