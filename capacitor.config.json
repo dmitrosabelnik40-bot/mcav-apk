@@ -1,0 +1,1 @@
+{\n  "appId": "com.example.app",\n  "appName": "MyApp",\n  "webDir": "build",\n  "plugins": {\n    "SplashScreen": {\n      "launchShowDuration": 0\n    }\n  },\n  "android": {\n    "allowMixedContent": true,\n    "minSdkVersion": "21",\n    "compileSdkVersion": "30",\n    "targetSdkVersion": "30"\n  }\n}
